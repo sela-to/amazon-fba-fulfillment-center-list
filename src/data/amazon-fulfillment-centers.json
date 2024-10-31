@@ -775,6 +775,10 @@
     "country": "US",
     "state": "MD"
   },
+  "DDV1": {
+    "country": "US",
+    "state": "CO"
+  },
   "DE01": {
     "country": "DE",
     "state": ""
@@ -960,6 +964,10 @@
     "state": "PA"
   },
   "DPX1": {
+    "country": "US",
+    "state": "AZ"
+  },
+  "DPX7": {
     "country": "US",
     "state": "AZ"
   },
@@ -3078,6 +3086,10 @@
   "ORF3": {
     "country": "US",
     "state": "VT"
+  },
+  "ORH3": {
+    "country": "US",
+    "state": "MA"
   },
   "ORY1": {
     "country": "FR",
